@@ -16,4 +16,8 @@ This is a python repo for the diplo 2024
 1. The goodfather
 2. shrek 2
 3. Agent A
-4. 
+
+##Course
+1. Python
+2. Julia
+3. R-Studio
