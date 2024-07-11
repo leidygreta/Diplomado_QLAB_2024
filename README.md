@@ -11,3 +11,9 @@ This is a python repo for the diplo 2024
 2. Morat
 3. Keane
 4. Georgina
+
+##Movies
+1. The goodfather
+2. shrek 2
+3. Agent A
+4. 
